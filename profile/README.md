@@ -20,4 +20,6 @@
 | AWS | 김승환, 성홍제 | <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> | 프로젝트를 배포하고 관리하기 위해 사용합니다. |
 | Communication | All | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> | 보다 익숙한 환경에서의 효율적인 협업을 위해 사용합니다. |
 
+<br/>
+
 <p align="right">Team. 신우 코는 정말 빨개</p>
