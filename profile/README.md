@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/830d7077-647b-4d80-a4f9-a66344b15718" width="300" />
+<img src="https://github.com/user-attachments/assets/5965cd9d-f53b-4856-858f-455110236c08"/>
 
 <!--
 # 면접에 한걸음, FOLINK
